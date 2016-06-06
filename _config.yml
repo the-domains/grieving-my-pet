@@ -1,7 +1,7 @@
 name: Grieving My Pet
 favicon: null
-layout_spectrum: 0.5462993527762592
-typography_spectrum: 0.8978996931109577
+layout_spectrum: 1
+typography_spectrum: 0.75591
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.07424037903547287
-  lightness: 0.6862069845665246
-  saturation: 0.2605735284741968
-  rhythmicContrast: 0.06904593971557915
+    - '#ffffff'
+    - '#ffb27d'
+    - '#b6bfd8'
+    - '#ff718a'
+    - '#fe4420'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
